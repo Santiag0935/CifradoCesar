@@ -1,7 +1,8 @@
 # CifradoCesar by Santiag0935
 Portafolio
 
-Cifrador de César
+Hola y buen dia!
+
 Este programa permite cifrar un mensaje utilizando el método de cifrado de César, una técnica clásica de criptografía. El usuario ingresa un mensaje y una palabra clave que determina la cantidad de desplazamiento de los caracteres.
 
 Descripción
