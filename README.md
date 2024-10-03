@@ -13,6 +13,6 @@ Requisitos
 Python 3.x
 
 Notas
-La palabra clave debe contener solo letras; de lo contrario, se pedirá que ingreses una válida.
-El programa maneja caracteres especiales y espacios, dejándolos sin cifrar.
-El resultado cifrado se guarda automáticamente en un archivo de texto.
+- La palabra clave debe contener solo letras; de lo contrario, se pedirá que ingreses una válida.
+- El programa maneja caracteres especiales y espacios, dejándolos sin cifrar.
+- El resultado cifrado se guarda automáticamente en un archivo de texto.
